@@ -1,0 +1,22 @@
+{
+    "chain_name": "Kyve-Korellia",
+    "api": [
+      "http://130.255.170.151:1318",
+      "https://api.explorer.kyve.network"
+    ],
+    "rpc": [
+      "http://65.108.126.46:28657"
+    ],
+    "sdk_version": "0.45.6",
+    "addr_prefix": "kyve",
+    "min_tx_fee": "5000",
+    "logo": "/logos/nois.svg",
+    "assets": [
+      {
+        "symbol": "KYVE",
+        "base": "tkyve",
+        "exponent": 9,
+        "logo": "https://kyve.explorers.guru/chains/kyve.png"
+      }
+    ]
+  }
