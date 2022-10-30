@@ -16,7 +16,7 @@
         "symbol": "KYVE",
         "base": "tkyve",
         "exponent": 9,
-        "logo": "https://kyve.explorers.guru/chains/kyve.png"
+        "logo": "/logos/kyve.png"
       }
     ]
   }

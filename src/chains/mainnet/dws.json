@@ -1,8 +1,8 @@
 {
-    "chain_name": "Deweb-Testnet-Sirius",
+    "chain_name": "Deweb-Testnet",
     "coingecko": "",
     "api": "https://dws-api.skynetvalidators.com",
-    "rpc": ["https://cerberus-rpc.polkachu.com:443"],
+    "rpc": ["https://deweb-sirius.sr20de.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",

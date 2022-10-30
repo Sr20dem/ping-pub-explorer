@@ -31,24 +31,29 @@ function processMenu() {
     })
   } else {
     chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
-      icon: 'LifeBuoyIcon',
+      title: 'Blog',
+      href: 'https://sr20de.xyz',
+      icon: 'MessageSquareIcon',
     })
   }
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/rd17061',
     icon: 'TwitterIcon',
   })
+
+  /* 
+
   chainMenus.push({
     title: 'FAQ',
     href: 'https://github.com/ping-pub/explorer/discussions',
     icon: 'MessageSquareIcon',
   })
+
+  */
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
+    href: 'https://github.com/Sr20dem',
     icon: 'GithubIcon',
   })
 
