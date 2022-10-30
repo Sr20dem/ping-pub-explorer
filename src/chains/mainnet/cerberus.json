@@ -1,5 +1,5 @@
 {
-  "chain_name": "cerberus",
+  "chain_name": "Cerberus",
   "coingecko": "cerberus-2",
   "api": ["https://cerberus-api.polkachu.com","https://api-cerberus-ia.cosmosia.notional.ventures", "https://api.cerberus.zone:1317"],
   "rpc": ["https://cerberus-rpc.polkachu.com:443", "https://rpc-cerberus-ia.cosmosia.notional.ventures:443", "https://rpc-cerberus.ecostake.com:443"],
